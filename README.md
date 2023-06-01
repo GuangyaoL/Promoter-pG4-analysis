@@ -3,7 +3,7 @@ Li Guangyue
 
 Code and processed data for paper in submission assessing evidence for negative selection in gnomAD and 1000 Genomes project over promoter G-quadruplex forming sequences and enrichment for functional associations using data from ENCODE and GTEx.
 
-The analysis is broadly separated into two major parts:
+The analysis is broadly separated into five major parts:
 
 1. Putative G-quadruplex (pG4) forming sequences and the stable scores within promoter were obtained from Quadron software.
 2. Population genetics analysis of canonical, putative G-quadruplex (pG4) forming sequences within promoters (we split this result codes part into 4 parts:2.1-2.4).
