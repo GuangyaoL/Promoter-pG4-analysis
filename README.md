@@ -1,4 +1,4 @@
-# Promoter-pG4-analysis
+# Integrative genomic analyses of promoter G-quadruplexes reveal their selective constraint and association with gene activation
 Li Guangyue
 
 Code and processed data for this study in submission assessing evidence for the negative selection in gnomAD and 1000 Genomes project over promoter G-quadruplex (G4) forming sequences and enrichment for functional associations using the data from ENCODE and GTEx.
